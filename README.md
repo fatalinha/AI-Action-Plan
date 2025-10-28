@@ -8,7 +8,7 @@ Code for compiling the AI Action Plan corpus and further analysis
 ## Instructions for compiling the corpus
 You can directly compile the corpus by running the bash file:
 
-``` bash run.sh work_dir links_dir```
+``` bash compile-corpus.sh work_dir links_dir```
 
 where:
 - ``` work_dir ``` is the working directory for procesing the files
