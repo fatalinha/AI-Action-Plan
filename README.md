@@ -11,7 +11,13 @@ Code for compiling the AI Action Plan corpus and further analysis
 ## Instructions for compiling the corpus
 You can directly compile the corpus by running the bash file:
 
-``` bash run.sh input_dir output_dir ```
+``` bash run.sh work_dir links_dir```
+
+where:
+- ``` work_dir ``` is the working directory for procesing the files
+- ``` links_dir ``` is the directory where the scripts and respondent*_links.txt are stored
+
+The processed corpus will be stored in ``` work_dir ```.
 
 ## Steps
 1. Downloads all individual responses from the NITRD website: https://files.nitrd.gov/90-fr-9088/90-fr-9088-combined-responses.zip
