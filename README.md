@@ -2,8 +2,8 @@
 Code for compiling the AI Action Plan corpus and further analysis
 
 ## Requirements
-- See requirements.txt file
-- Additionally install pdftotext: https://www.cyberciti.biz/faq/converter-pdf-files-to-text-format-command/
+- See ```requirements.txt``` file
+- Additionally install [pdftotext](https://www.cyberciti.biz/faq/converter-pdf-files-to-text-format-command/): ```sudo apt-get install poppler-utils ```
 
 ## Instructions for compiling the corpus
 You can directly compile the corpus by running the bash file:
