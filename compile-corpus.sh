@@ -34,7 +34,7 @@ python3 $LINKS/clean-corpus.py $WRKDIR/merged
 
 # Separate respondents
 echo "Step 6: Separate respondents"
-python3 $LINKS/separate-respondents.py $LINKS $WRKDIR/merged $WRKDIR/
+python3 $LINKS/separate-respondents.py $LINKS/links $WRKDIR/merged $WRKDIR/
 
 rm -rf $WRKDIR/merged
 rm -rf $WRKDIR/txt
