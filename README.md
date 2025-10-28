@@ -2,11 +2,8 @@
 Code for compiling the AI Action Plan corpus and further analysis
 
 ## Requirements
-- pdftotext: https://www.cyberciti.biz/faq/converter-pdf-files-to-text-format-command/
-- unzip
-- Stanza 
-- Python 3.6
-
+See requirements.txt file
+Additionally, pdftotext: https://www.cyberciti.biz/faq/converter-pdf-files-to-text-format-command/
 
 ## Instructions for compiling the corpus
 You can directly compile the corpus by running the bash file:
